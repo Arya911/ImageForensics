@@ -1,1 +1,7 @@
-# ImageForensics
+# Image Forensics
+
+## VIT PUNE EDI SEM 4 GROUP 3 PROJECT
+### ANUSHKA WARPE
+### DURVA AJGAONKAR
+### APURV WAGHMARE
+### ARYA ALURKAR
